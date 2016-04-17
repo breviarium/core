@@ -40,4 +40,4 @@ gulp.task('test', [ 'compile' ], () => {
             .pipe(ava());
 });
 
-gulp.task('default', [ 'compile' ]);
+gulp.task('default', [ 'compile', 'test' ]);
