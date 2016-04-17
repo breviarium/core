@@ -1,6 +1,6 @@
 {
   "name": "brevis-core",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Brevity in async http microservices",
   "main": "build/lib/index.js",
   "scripts": {
